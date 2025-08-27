@@ -14,7 +14,7 @@ This project tackles the challenge of fraud detection on a highly imbalanced dat
 
 ## Live Demo
 
-You can try the live application here: **[Your Hugging Face Space URL]**
+You can try the live application here: **https://huggingface.co/spaces/chatterjeerohit08/fraud-detection-terminal**
 
 ## How to Use
 
